@@ -22,14 +22,16 @@ This project analyzes employee salary data in relation to their years of experie
 
  ## Usage 
  1. Clean the data:
-    ''' python
-     scripts/clean_data.py
- 3. Run the analysis:
-   ''' python
-  scripts/analyze_data.py
- 5. View results in the results/ folder, or use:
-  ''' jupyter
-  lab
+
+    ``` python scripts/clean_data.py```
+
+ 2. Run the analysis:
+ 
+   ``` python scripts/analyze_data.py```
+   
+ 3. View results in the results/ folder, or use:
+
+  ``` jupyter lab```
 
 ## Results
 * Visualizations of current salary distribution and recommendations based on experience analysis. 
