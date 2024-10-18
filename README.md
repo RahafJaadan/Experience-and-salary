@@ -32,9 +32,9 @@ This project analyzes employee salary data in relation to their years of experie
   lab
 
 ## Results
-*Visualizations of current salary distribution and recommendations based on experience analysis. 
+* Visualizations of current salary distribution and recommendations based on experience analysis. 
 
 ## Future Work 
-*Add predictive modeling for future salaries.
-*Enhance visualizations. 
-*Expand the dataset to include more criteria.
+* Add predictive modeling for future salaries.
+* Enhance visualizations. 
+* Expand the dataset to include more criteria.
