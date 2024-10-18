@@ -17,7 +17,7 @@ This project analyzes employee salary data in relation to their years of experie
  ## Requirements 
 * **Python**
  * Libraries: pandas, numpy, matplotlib, seaborn, jupyterlab To install dependencies: 
-''' pip install -r requirements.txt '''
+""" pip install -r requirements.txt """
 
  ## Usage 
  1. Clean the data:
