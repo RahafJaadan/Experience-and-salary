@@ -9,14 +9,14 @@ This project analyzes employee salary data in relation to their years of experie
 4.   Visualize the relationship between experience and salary.
 
  ## Contents
- • data/: Raw and cleaned salary data.
- • notebooks/: Jupyter notebooks for analysis and visualization.
- • scripts/: Python scripts for data cleaning and analysis.
- • results/: Output visualizations and recommendations. • requirements.txt: List of required libraries.
+ * data/: Raw and cleaned salary data.
+ * notebooks/: Jupyter notebooks for analysis and visualization.
+ * scripts/: Python scripts for data cleaning and analysis.
+ * results/: Output visualizations and recommendations. • requirements.txt: List of required libraries.
 
  ## Requirements 
  **Python**
- • Libraries: pandas, numpy, matplotlib, seaborn, jupyterlab To install dependencies:
+ * Libraries: pandas, numpy, matplotlib, seaborn, jupyterlab To install dependencies:
 (block code): 
  pip install -r requirements.txt
 
@@ -32,9 +32,9 @@ This project analyzes employee salary data in relation to their years of experie
   lab
 
 ## Results
-• Visualizations of current salary distribution and recommendations based on experience analysis. 
+*Visualizations of current salary distribution and recommendations based on experience analysis. 
 
 ## Future Work 
-• Add predictive modeling for future salaries.
-• Enhance visualizations. 
-• Expand the dataset to include more criteria.
+*Add predictive modeling for future salaries.
+*Enhance visualizations. 
+*Expand the dataset to include more criteria.
