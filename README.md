@@ -23,7 +23,7 @@ This project analyzes employee salary data in relation to their years of experie
  ## Usage 
  1. Clean the data:
 
-    ``` python scripts/clean_data.py```
+   ``` python scripts/clean_data.py```
 
  2. Run the analysis:
  
